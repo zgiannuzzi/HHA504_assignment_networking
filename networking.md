@@ -29,17 +29,32 @@
 ## Azure 
   - Could not find the reason why flask IP would not connect was able to get the flask application running in the SSH though.
 
-![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCP5.PNG)
+
 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCPA3.PNG)
 
 ## GCP 
-![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCP10.PNG)
 
-![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCPA3.PNG)
+
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCP12.PNG)
 
 # 5. 
 
 ## Azure 
 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCPA5.PNG)
+
+
+
+
+
+
+#6
+
+## Azure 
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCP5.PNG)
+
+## GCP 
+
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_networking/blob/main/VCP10.PNG)
+
